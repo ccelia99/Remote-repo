@@ -1,0 +1,5 @@
+#File/ types for Git to ignore
+
+*.in 
+*.out
+*.pyc
